@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\kejiang\\sample\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_main_imageview.xml",
+        "source": "E:\\kejiang\\sample\\ZXingDemo\\app\\src\\main\\res\\drawable\\shape_main_imageview.xml"
+    },
+    {
+        "merged": "E:\\kejiang\\sample\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_main_title.xml",
+        "source": "E:\\kejiang\\sample\\ZXingDemo\\app\\src\\main\\res\\drawable\\shape_main_title.xml"
+    },
+    {
+        "merged": "E:\\kejiang\\sample\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_main_button.xml",
+        "source": "E:\\kejiang\\sample\\ZXingDemo\\app\\src\\main\\res\\drawable\\selector_main_button.xml"
+    },
+    {
+        "merged": "E:\\kejiang\\sample\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_capture_back.xml",
+        "source": "E:\\kejiang\\sample\\ZXingDemo\\app\\src\\main\\res\\drawable\\selector_capture_back.xml"
+    },
+    {
+        "merged": "E:\\kejiang\\sample\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_main_button.xml",
+        "source": "E:\\kejiang\\sample\\ZXingDemo\\app\\src\\main\\res\\drawable\\shape_main_button.xml"
+    },
+    {
+        "merged": "E:\\kejiang\\sample\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_main_edit.xml",
+        "source": "E:\\kejiang\\sample\\ZXingDemo\\app\\src\\main\\res\\drawable\\shape_main_edit.xml"
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\kejiang\sample\ZXingDemo\app\libs\core-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fb52cf43975eb06d1696b341b5b7d8e40e8a59e5">
+        <dex dex="E:\kejiang\sample\ZXingDemo\app\build\intermediates\pre-dexed\debug\core-3.0.0_08666cc45d593c85df369db63e5d2483780bb467.jar" />
+    </item>
+    <item
+        jar="E:\kejiang\sample\ZXingDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\kejiang\sample\ZXingDemo\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_736d1d8eedc3ca6cf2ca7402f540d5a7c906bfd4.jar" />
+    </item>
+    <item
+        jar="E:\kejiang\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\kejiang\sample\ZXingDemo\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_3b8b00740cc5a5fd516b516ae83bb491e40b0000.jar" />
+    </item>
+    <item
+        jar="E:\kejiang\sample\ZXingDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\kejiang\sample\ZXingDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_cc2c2321758293332a4b248c4513255ffc3b45a9.jar" />
+    </item>
+
+</items>
